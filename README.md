@@ -4,7 +4,7 @@
 ## Steps
  - create a ```src``` folder in your app, its folder name is optional but its must be next to www amd public directory
   ```
-  three
+  tree
    - your app
      - public
      - www
